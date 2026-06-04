@@ -1,6 +1,6 @@
 
 
-# <div align="center">✨Moving Towards Next-Generation RAG via Multi-Modal Agentic Reinforcement Learning</div>
+# <div align="center">✨Alibab-VRAG: Moving Towards Next-Generation RAG via Multi-Modal Agentic Reinforcement Learning</div>
 
 <div align="center">
 <p><strong>A Multi-Turn Multi-Modal Agent Training Framework</strong></p>
