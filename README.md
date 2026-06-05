@@ -1,6 +1,6 @@
 
 
-# <div align="center">✨Alibaba-VRAG: Moving Towards Next-Generation RAG via Multi-Modal Agentic Reinforcement Learning-943stars</div>
+# <div align="center">✨VRAG: Moving Towards Next-Generation RAG via Multi-Modal Agentic Reinforcement Learning[Alibaba Paper Code Fork][943stars]</div>
 
 <div align="center">
 <p><strong>A Multi-Turn Multi-Modal Agent Training Framework</strong></p>
